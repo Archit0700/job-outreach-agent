@@ -1,0 +1,23 @@
+Archit Chhikara
+Computer Science Undergraduate | India
+Email: archit@example.com
+
+Skills: Python, Java, C++, SQL, Machine Learning, LLMs, RAG, Hugging Face, ChromaDB, TensorFlow, MATLAB, Git, Docker
+
+Education:
+B.Tech Computer Science
+
+Internships:
+Research Internship — University of Southampton
+- Worked on robustness and reasoning evaluation for LLMs
+
+Software Internship
+- Built a RAG-based PDF question-answering system using Hugging Face, ChromaDB and Gemini
+
+Projects:
+- Company Placement Recommendation project (Python, SQL)
+- Android mobile prototype (Kotlin basics)
+
+Links:
+GitHub: https://github.com/example
+LinkedIn: https://linkedin.com/in/example
